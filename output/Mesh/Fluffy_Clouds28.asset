@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: Fluffy_Clouds28
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 24
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 15
+    localAABB:
+      m_Center: {x: 13.60982, y: -31.73584, z: 648.4527}
+      m_Extent: {x: 21.57913, y: 0.9769802, z: 34.78876}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200000003000100040001000300050004000300060007000200080009000a000b000c000d000e000c000b00
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 139
+    m_VertexCount: 15
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 4
+    m_DataSize: 720
+    _typelessdata: 9c04ffc09932fdc149612244000000000000803f000000000000003f00000000cda0d7be000000009a3068bf000080bf7f1b83419932fdc1708d1f44000000000000803f000000000000003fcea77e3ee8a0d7be00000000943068bf000080bfe6b4a4409932fdc17e6a1944000000000000803f000000000200403f0000803ef5a0d7be00000000913068bf000080bf522ab1400e6afac1c13d28442af05a3b8afa7f3fc6474cbc8d36803e463bb43cdca4d7be1f3a22bc1e2c68bf000080bf308c02429932fdc172372844b036603c70f97f3f87c06c3b7a0c153e0000803ec995d7be1f1b143c353068bf000080bf736dbf419932fdc174cf2a44d4e5403bbef67f3f1297873cf82fbd3d79ab0b3e029ad7be9022853ca32868bf000080bf7dc10c422612f6c18e472244e81624bcc1f07f3f0a7b9cbc388dab3ee164ba3e8e91d7bec57ab0bc5f2368bf000080bf3ca0ea417c71f8c12dd21c44e81624bcc1f07f3f0a7b9cbcb4920a3ff8c9cc3e5e93d7becd7ab0bcf42268bf000080bf8a81c5c0eed902c248fd194436f05bbd00857e3f2778bebd895e463f757d153eed40d6be5912dbbdb7e366bf000080bf9c04ffc09932fdc14961224436f05bbd00857e3f2778bebd0000003f00000000c7f8d5be500fdbbd7cf466bf000080bfe6b4a4409932fdc17e6a194436f05bbd00857e3f2778bebd0200403f0000803e9e08d6befb0fdbbdcef066bf000080bf7f1b83419932fdc1708d1f44bdda8bbd8e5b7f3f7b0b99bc0000003fcea77e3e9a4fd6be00f53abd623368bf000080bf7dc10c422612f6c18e472244bdda8bbd8e5b7f3f7b0b99bc388dab3ee164ba3ef24fd6be2af53abd4d3368bf000080bfe6b4a4409932fdc17e6a1944bdda8bbd8e5b7f3f7b0b99bc0200403f0000803e68ebd6be773f3bbd230f68bf000080bf308c02429932fdc17237284477fc8dbd4d577f3f83ec95bc7a0c153e0000803e852ad6beab443bbdaf3b68bf000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 13.60982, y: -31.73584, z: 648.4527}
+    m_Extent: {x: 21.57913, y: 0.9769802, z: 34.78876}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1
